@@ -1,0 +1,1 @@
+console.log('đẹp trai quá ta ơi');
